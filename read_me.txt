@@ -1,6 +1,11 @@
 GIT:
 ---
-git is a distributed version control system. here every one will have a local repository. All the local repository has  all of the information that a remote repository has based on the last time that we sync those two together. We can also have option that for central reomte repesitory. If we don't have access to the remote repository then we can still view every single change that's been made to that repository since it was created. so almost every developer(working on it) has an entire backup of the repository. In the worst case if something happening to the remote repository every developer has a copy of that same repository on their machine so that's why it is called as a distribution version control system.
+git is a distributed version control system here every one will have a local repository. 
+All the local repository has  all of the information that a remote repository has based on the last time that we sync those two together. 
+We can also have option that for central reomte repesitory. 
+If we don't have access to the remote repository then we can still view every single change that's been made to that repository since it was created.
+so almost every developer(working on it) has an entire backup of the repository. 
+In the worst case if something happening to the remote repository every developer has a copy of that same repository on their machine so that's why it is called as a distribution version control system.
 
 
 how to do change to a file and update to existing file which is in github
