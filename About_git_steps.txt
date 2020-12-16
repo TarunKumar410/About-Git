@@ -12,6 +12,18 @@ how to do change to a file and update to existing file which is in github
 
 Before this steps we need to config(enter into our account) and clone our repository.
 
+Inital Steps:
+------------
+$ git config --global user.name "git user name"
+$ git config --global user.email "email id"
+
+ex: git config --global user.name "TarunKumar410"
+    git config --global user.email "tarun@gmail.com"
+
+$ git clone "http link"
+ex: git clone "https://github.com/TarunKumar410/About-Git/edit/main/read_me.txt"
+
+
 step1:
 -----
 run the maste and say ur are working on some file "readme.txt" 
@@ -87,6 +99,5 @@ refernce:
 --------
 
 https://dzone.com/articles/top-20-git-commands-with-examples
-
 https://www.youtube.com/watch?v=HVsySz-h9r4
 
