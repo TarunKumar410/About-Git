@@ -5,6 +5,8 @@ git is a distributed version control system. here every one will have a local re
 
 how to do change to a file and update to existing file which is in github
 
+Before this steps we need to config(enter into our account) and clone our repository.
+
 step1:
 -----
 run the maste and say ur are working on some file "readme.txt" 
